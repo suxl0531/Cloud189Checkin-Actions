@@ -29,8 +29,8 @@ jobs:
         user='${{ secrets.USER }}'
         pwd='${{ secrets.PWD }}'
         
-        user_list=()
-        pwd_list=()
+        user_list=(18060063138)
+        pwd_list=(Su787484244)
 
         for u in ${user[*]}
         do
